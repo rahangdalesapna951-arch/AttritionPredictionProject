@@ -1,3 +1,4 @@
+
 # Employee Attrition Prediction Dashboard
 
 ## Overview
@@ -24,10 +25,10 @@ The main objective of this project is to help organizations understand employee 
 
 ## How to Run
 1. Install required libraries:
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 
 2. Run the project:
-   streamlit run app.py
+   `streamlit run app.py`
 
 ## Files Included
 - app.py

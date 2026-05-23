@@ -51,7 +51,7 @@ def get_risk(prob):
     else:             return 'High Risk',   '#E24B4A'
 
 # ── SIDEBAR ────────────────────────────────────────────
-st.sidebar.image("logo1.JPG", width=200)
+st.sidebar.image("logo1.jpg", width=200)
 
 st.sidebar.title("HR Attrition Dashboard")
 st.sidebar.markdown("---")
